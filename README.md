@@ -16,7 +16,7 @@ This is a simple Python implementation of the classic **"Snake, Water, Gun"** ga
 1. Clone this repository or download the `.py` file.
 2. Run the Python script:
    ```bash
-   python snake_water_gun.py
+   main.py
 When prompted, enter one of the following:
 
 snake
